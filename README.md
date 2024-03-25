@@ -15,4 +15,7 @@ El cronómetro permite iniciar, pausar y reiniciar la medición del tiempo.
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+Full Stack Developer en desarrollo...   
+Tecnología - Informática // 
+Aprendiendo y mejorando mis habilidades // 
+Analista de Sistemas 👩🏼‍💻
