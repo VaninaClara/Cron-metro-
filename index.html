@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cronómetro</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,600;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <div>
+        <h1>Proyecto Cronómetro</h1>
+        <p>Este proyecto es una implementación básica de un cronómetro utilizando HTML, CSS y JavaScript.</p>
+        <p>El cronómetro permite iniciar, pausar y reiniciar la medición del tiempo.</p>
+    </div>
+    <main>
+        <div class="circle">
+           <div id="stopwatch" class="stopwatch">00:00</div>
+           <div class="buttons">
+              <div class="stop" onclick="stop()"></div>
+              <div id="play-pause" class="paused" onclick="playPause()"></div>
+           </div>
+        <div id="seconds-sphere" class="seconds-sphere"></div>
+    </div>
+    </main>
+
+    <footer>
+        
+    </footer>
+</body>
+</html>
